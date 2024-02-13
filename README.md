@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ZunariDev
-- 👀 I’m interested in anything that has to do with programming
-- 🌱 I’m currently learning javascript (discord.js), java and some basic stuff
+- 👀 I’m interested in pretty much anything
+- 🌱 I’m currently learning javascript (discord.js)
 - 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me: discord Zunari#8256
+- 📫 How to reach me:
+  Discord: zunari.dev
 
 <!---
 ZunariDev/ZunariDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
